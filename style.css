@@ -776,8 +776,9 @@ noscript{
     border-radius: 50%;
     cursor: pointer;
     position: fixed;
-    bottom:50px;
-    left:70px;
+    bottom:20px;
+    left: 10px;
+    
     overflow: hidden;
     transition-duration: .3s;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.199);
